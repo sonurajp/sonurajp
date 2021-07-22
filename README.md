@@ -8,8 +8,8 @@
 
 - JavaScript (ES6+),TypeScript 
 - React, Next
-- Node.js , Express
-- Html       ,            Css
+- Node.js, Express
+- Html, Css
 <!---
 sonurajp/sonurajp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
