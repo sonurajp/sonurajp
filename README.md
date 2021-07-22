@@ -6,7 +6,7 @@
 -  React, Next, JavaScript, TypeScript, Html, Css, Sass...
 - Here are a few technologies I've been working with recently:
 
-- JavaScript (ES6+)      TypeScript
+- JavaScript (ES6+)      TypeScript /n
 - React                  Next
 - Node.js                Express
 - Html                   Css
