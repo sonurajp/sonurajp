@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm  Sonu from India<br><br>- 🔭 front-end engineer<br>- 📚 I'm currently learning full-stack development<br>- ⚡ In my free time I play football, youtube</p>
+<p align="left">I'm  Sonu from India<br><br>- 🔭 front-end engineer<br>- 📚 learning full-stack development<br>- ⚡ In my free time I play football, youtube</p>
 
 ###
 
